@@ -11,6 +11,8 @@ export default function Home() {
     <div className="overflow-x-hidden overflow-y-hidden bg-slate-100">
       <Header />
 
+
+
       <div className="flex flex-col md:flex-row w-full min-h-screen">
         <div className="flex flex-col md:w-[60%] w-full px-4 md:pr-20 md:pt-48 pt-24">
           <h2 className="text-blue-300 text-lg md:text-xl md:pl-48 pl-4">Hi Everyone, I am</h2>

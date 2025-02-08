@@ -1,11 +1,8 @@
 import React from 'react';
 import Image from 'next/image';
 import webclone from "../app/(assets)/webclone.png";
-import figmapic from "../app/(assets)/figmapic.png";
 import loginpage from "../app/(assets)/loginpage.png";
 import project from "../app/(assets)/project.jpg";
-import image0 from "../app/(assets)/image0.png";
-import image from "../app/(assets)/image.jpg";
 
 function Projects() {
   return (
